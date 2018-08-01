@@ -1,0 +1,14 @@
+{
+    "name": "bsoft/ht",
+    "description": "This is a test project",
+    "require": {
+        "php": "~7.1.10",
+        "ext-yac": "*",
+        "ext-swoole": "~1.9.0",
+        "lib-curl": "~7.50.0",
+        "monolog/monolog": "~1.2"
+    },
+    "autoload": {
+        "psr-4": { "lib\\" : "./libs/" }
+    }
+}
