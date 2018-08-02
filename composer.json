@@ -1,5 +1,5 @@
 {
-    "name": "bsoft/ht",
+    "name": "bfsoft/ht",
     "description": "This is a test project",
     "require": {
         "php": "~7.1.10",
